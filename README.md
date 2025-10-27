@@ -15,3 +15,7 @@ MAC addresses broken into 6 part 2 digit codes (12 total). First 6 digits repres
 Ping uses ICMP (Internet Control Message Protocol) packets to determine the performance of a connection between devices, for example, if the connection exists or is reliable.
 
 Link Advancded Search operators list: https://github.com/cipher387/Advanced-search-operators-list
+
+Linux Manual Pages = man ip
+
+Microsoft  = ipconfig
